@@ -72,7 +72,7 @@ a.menu-logo {
 
 /* Intro */
 .intro {
-  background: url('../images/bg-intro.jpg');
+  background: url('../../images/bg-intro.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
